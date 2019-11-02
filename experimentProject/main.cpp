@@ -9,8 +9,10 @@ int main()
     cout<<"a=";
     cin>>c;
     cout<<"b="
-    cin>>asd
-    cout<<"c=asd
     cin>>c;
+
+
+
+
     return 0;
 }
